@@ -1,2 +1,2 @@
 # Delta
-výukový materiál / ukázky kódů
+ materiál pro výuku programování / ukázky kódů
